@@ -1,5 +1,3 @@
-# todo-app-wedevs
-
 ## Project setup
 ```
 npm install
